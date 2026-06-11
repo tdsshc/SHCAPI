@@ -2,13 +2,6 @@
 "keys": [
 {
   "kty": "RSA",
-  "n": "kjnRlT0vx11vj6hCNszWdazbFBByZyW6PzDOULK165YgsuRNG4jMMmVlIEp1E-UAbj6eZ6PTWX5TQ05M1CLa74H8-FZJ1afSrRQHcs0zMfIA2k73328a7ipmXj7DGx5wtkVrNVpyJK51b5OdTLLwsdvgat3haLlgYYMDY-OudR4E-BEi6_RBDRgizULOUgv3btLNmzzsY6ovrFktDBRkj4_Vbyq8VAF76AWYe2P-J6nXsIQ81L5dxDJ38NS77T7HDF_eEuB8W1Hmgs2f-3D22JLHfIxQH2bBcUNRVBnOyyGCEx6oI3DnT_XxsQ2FkGeCA-9sgI0-EdRIHqh9gMdIvQ",
-  "e": "AQAB",
-  "alg": "RS256",
-  "kid": "233b5b75-5aad-4f86-a1e8-990be3e78353"
-},
-{
-  "kty": "RSA",
   "n": "z1SGh9T7vkJ4lshwkF3rhydMtK9q7m6b6Z7lhdaJWihrijp-gc-xEsiu7rvH2jkmhxes4MqRjdqPubUuaYwx0XOR1omLVAbsg3X9TqqDWOv2_Cp42APC2eCigsTSL7nTYMbyeuSvSF-wxBaHcnK37O-48KIiI-dAfSQTk-CbIXXa9-Zd9R5HNgEnJybjZykgMt2qz0PYLUpVceqdIZaDoktqRYeY4n_Oj-NbamHmg3uOfmSN0dJ1jWWzu22ezS7e5zLN9jqArenSpXURdBvVeciognQxOcgcksYbynfSQFO-bD3u9W4eTQ59ZGd8_opoNi-mWjVFw8OShE0ixXfskw",
   "e": "AQAB",
   "alg": "RS256",
